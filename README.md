@@ -4,28 +4,26 @@ The Movie Recommender System is a Python-based web application designed to provi
 <br/>
 
 ## Features
-### Movie Recommendations
-Get recommendations based on your favorite movie. The system uses a similarity model to suggest movies similar to the one selected.
 
-### Movie Posters
-Displays movie posters alongside recommendations to give a visual representation of the suggested films.
+1. <b>Movie Recommendations: </b>Get recommendations based on your favorite movie. The system uses a similarity model to suggest movies similar to the one selected.
 
-### Interactive UI
-Built using Streamlit, providing a user-friendly interface where users can select movies from a dropdown menu and view recommendations with a click of a button.
+2. <b>Movie Posters: </b>Displays movie posters alongside recommendations to give a visual representation of the suggested films.
+
+3. <b>Interactive UI: </b>Built using Streamlit, providing a user-friendly interface where users can select movies from a dropdown menu and view recommendations with a click of a button.
 
 
 ## Technology Stack
 
-Python: The primary programming language used for the backend logic and machine learning model.
+1. <b>Python: </b>The primary programming language used for the backend logic and machine learning model.
 Streamlit: Used for creating the web application interface.
 
-Pandas: For data manipulation and analysis.
+2. <b>Pandas: </b>For data manipulation and analysis.
 
-Scikit-learn: For building the similarity model.
+3. <b>Scikit-learn: </b>For building the similarity model.
 
-Requests: To fetch movie posters from an external API.
+4. <b>Requests: </b>To fetch movie posters from an external API.
 
-TMDb API: Provides movie details and poster images.
+5. <b>TMDb API: </b>Provides movie details and poster images.
 
 
 ## Setting Up Development Environment
@@ -41,4 +39,6 @@ TMDb API: Provides movie details and poster images.
 
 ## Demo Video
 
-[Watch the demo video]([https://github.com/username/repository/blob/main/path/to/your/video.mp4](https://github.com/Nithin-2812/Movie-Recommender-System/blob/main/MovieRecommenderSystem.mp4))
+<p align="center">
+  <img src="https://github.com/Nithin-2812/Movie-Recommender-System/blob/main/MovieRecSys_demo.gif" alt="animated" />
+</p>
