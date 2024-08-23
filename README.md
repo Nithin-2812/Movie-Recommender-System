@@ -39,7 +39,6 @@ TMDb API: Provides movie details and poster images.
 4. Copy the Local or Network address and paste it into your web browser.
 
 
-## Demo
-<p align="center">
-  <img src="MovieRecommenderSystem.mp4" alt="animated" />
-</p>
+## Demo Video
+
+[Watch the demo video]([https://github.com/username/repository/blob/main/path/to/your/video.mp4](https://github.com/Nithin-2812/Movie-Recommender-System/blob/main/MovieRecommenderSystem.mp4))
